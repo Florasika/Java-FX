@@ -1,0 +1,11 @@
+Bonjour Flora,
+
+Bienvenue dans ton premier projet JavaFX.
+
+Ce projet permet :
+
+- Ouvrir un fichier texte
+- Lire son contenu
+- Afficher le contenu dans l'interface
+
+Bonne pratique Java !
